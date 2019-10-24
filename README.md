@@ -1,2 +1,2 @@
 # django_blog
-Blogging sites using Python Django Framework
+Blogging site using Python Django Framework
